@@ -1,0 +1,9 @@
+Source: https://purelogics.com/resource_center/closedwon/ (checked 11 Oct 2026)
+Topic: Case study - ClosedWon
+
+PureLogics helped ClosedWon, an AI email generation tool.
+PureLogics implemented personalized email crafting using ChatGPT3 and NLP.
+PureLogics built a LinkedIn prospecting assistant for lead generation.
+PureLogics refined the Davinci model offered by OpenAI.
+PureLogics enabled bulk export and import of pre-trained cold emails in CSV.
+The case study reports that ClosedWon quadrupled meeting bookings for salespeople.

@@ -1,0 +1,13 @@
+Source: https://purelogics.com/services/quality-assurance-services/ (checked 11 Oct 2026)
+Topic: QA / Testing services
+
+PureLogics provides software quality assurance and testing services.
+PureLogics has years of experience in quality engineering.
+PureLogics offers automation testing and manual software testing.
+PureLogics provides compatibility testing and performance testing.
+PureLogics also offers security testing for applications.
+PureLogics can provide dedicated QA teams for clients.
+PureLogics follows an assessment phase to understand business requirements.
+PureLogics plans test cases and selects tools during the planning phase.
+PureLogics executes tests and captures results in the execution phase.
+PureLogics reviews and analyses results before presenting findings.
